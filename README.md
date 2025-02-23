@@ -5,10 +5,15 @@ grades effeciently.It allows users to input student's names and their scores acc
 mulitiple subjects,then caluclates by giving user outputs. By giving output it shows the 
 student total ,average and also grade.
 # Technologies used
+
 1.java
+
 2.object-oriented programming(oop)
+
 3.Arrays
+
 4.Scanner class for user output
+
 # project structure
 StudentGradeTracker/
 │── src/
