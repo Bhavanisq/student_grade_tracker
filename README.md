@@ -21,13 +21,9 @@ student total ,average and also grade.
 StudentGradeTracker/
 
 │── src/
-
 │   ├── Student.java
-
 │   ├── StudentGradeTracker.java
-
 │── README.md
-
 │── LICENSE
 
 # Connect with Me
