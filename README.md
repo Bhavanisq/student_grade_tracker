@@ -1,9 +1,12 @@
 ## student Grade Tracker
+
 # project overview
+
 The student grade tracker is a Java based application designes to help teachers and manages the student's
 grades effeciently.It allows users to input student's names and their scores accross
 mulitiple subjects,then caluclates by giving user outputs. By giving output it shows the 
 student total ,average and also grade.
+
 # Technologies used
 
 1.java
@@ -16,10 +19,17 @@ student total ,average and also grade.
 
 # project structure
 StudentGradeTracker/
+
 │── src/
+
 │   ├── Student.java
+
 │   ├── StudentGradeTracker.java
+
 │── README.md
+
 │── LICENSE
+
 # Connect with Me
+
 🔗 [LinkedIn]https://https://www.linkedin.com/in/samanjula-bhavani-1b1789256🔗 GitHub
